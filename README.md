@@ -36,28 +36,9 @@
 
 <br />
 <br />
-
-<!-- ---
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
- 
 ---
-<!-- 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
-
-
-<!-- ---  -->
-
+<img align="left" alt="RutvikGoti's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=RutvikGoti&show_icons=true&hide_border=true" />
+---
 
 [website]: https://github.com/RutvikGoti
 [twitter]:https://twitter.com/Rutvik2031?t=ZXNpmIhoAKAG8kUDo-8Bpw&s=09

@@ -6,7 +6,7 @@
 
 ## I'm a Developer!!
 
-- 🔭 I’m currently on my own project: [Expense Manager with advance features][course]!
+- 🔭 I’m currently on my own project: [Expense Manager with advance features][course]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects🎯
@@ -43,3 +43,4 @@
 [twitter]:https://twitter.com/Rutvik2031?t=ZXNpmIhoAKAG8kUDo-8Bpw&s=09
 [instagram]: https://www.instagram.com/rutvik._196
 [linkedin]: https://www.linkedin.com/in/rutvik-goti-826717219
+[course]: https://github.com/RutvikGoti
